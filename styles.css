@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(143, 214, 255);
+    text-align: center;
+    font-family: Verdana, sans-serif, "Times New Roman";
+}
+
+.img-menu {
+    height: auto;
+    width: 300px;
+}
+
+.heading {
+    color:rgb(255, 82, 82);
+}
