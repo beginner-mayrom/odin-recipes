@@ -2,6 +2,7 @@
     background-color: rgb(143, 214, 255);
     text-align: center;
     font-family: Verdana, sans-serif, "Times New Roman";
+    font-size: 25px;
 }
 
 .img-menu {
@@ -12,3 +13,15 @@
 .heading {
     color:rgb(255, 82, 82);
 }
+
+#justify  {
+    text-align: justify;
+}
+
+#start {
+    text-align: start;
+}
+
+.margin {
+    margin: auto 1000px;  
+  }
