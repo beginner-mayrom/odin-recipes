@@ -35,7 +35,7 @@ section {
 }
 
 body {
-    margin: 0;
+    margin: 0;   
 }
 
 article {
@@ -45,6 +45,6 @@ article {
     flex: 1;
 }
 
-p, li, ul, ol, article {
+p, li, ul, ol, article, .external-link {
     background-color: beige;
 }
