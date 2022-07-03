@@ -1,27 +1,50 @@
-* {
-    background-color: rgb(143, 214, 255);
-    text-align: center;
+* {  
     font-family: Verdana, sans-serif, "Times New Roman";
     font-size: 25px;
+    background-color: salmon;
 }
 
-.img-menu {
+img {
     height: auto;
-    width: 300px;
+    width: 450px;
 }
 
-.heading {
+h1, h2 {
     color:rgb(255, 82, 82);
+    text-align: center;
+    background-color: rgb(143, 214, 255);
+    padding: 10px;
+    margin: 10px;
+    border: 0px;
 }
 
-#justify  {
+div {
+    text-align: center; 
+}
+
+p  {
     text-align: justify;
 }
-
-#start {
+ 
+ul, ol {
     text-align: start;
 }
 
-.margin {
-    margin: auto 1000px;  
-  }
+section {
+    display: flex;
+}
+
+body {
+    margin: 0;
+}
+
+article {
+    padding: 10px;
+    margin: 10px;
+    border: 0px;
+    flex: 1;
+}
+
+p, li, ul, ol, article {
+    background-color: beige;
+}
